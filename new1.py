@@ -1,5 +1,3 @@
-#currenttime = localtime(time.time())
-#print ("current time is ", currenttime)
 
 from datetime import datetime
 now = datetime.now()
